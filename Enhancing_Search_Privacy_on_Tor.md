@@ -27,10 +27,10 @@
 - DKF는 기존 WF 및 KF 연구들에 비해 우수한 성능 / 토르 네트워크가 딥러닝을 적용한 KF 공격에 취약함을 증명
 - CW 환경에서 두 가지 검색엔진 데이터에 대해 모두 80% 이상의 정확도 / OW 환경에서도 State-of-the-Art 달성
 
-> Tor 네트워크가 여전히 KF 공격에 취약하므로 토르 네트워크의 KF 공격에 대한 방어기법 개발이 필요
+> Tor 네트워크가 여전히 KF 공격에 취약하므로 토르 네트워크의 KF 공격에 대한 방어기법 개발이 필요  
 > 본 연구의 KF 공격에 대한 취약점 분석이 방어 기법 연구에 도움을 줄 수 있을 것으로 기대
 
-## [Poster] [Securing Search Privacy on Tor: Deep Keyword Fingerprinting and BurstGuard Defense](https://www.acsac.org/2024/files/web/poster-acsac24-final18.pdf) | Chaewon Hwang*, Haeseung Jeon*, Jiwoo Hong, Hosung Kang, Se Eun Oh | ACSAC, December 2024
+## [[Poster] Securing Search Privacy on Tor: Deep Keyword Fingerprinting and BurstGuard Defense](https://www.acsac.org/2024/files/web/poster-acsac24-final18.pdf) | Chaewon Hwang*, Haeseung Jeon*, Jiwoo Hong, Hosung Kang, Se Eun Oh | ACSAC, December 2024
 
 ### Keyword - Tor, Deep Learning, Keyword Fingerprinting(KF)
 
@@ -44,4 +44,4 @@
 - Moreover, we developed a state-of-the-art KF model that significantly outperforms competing models, with a 41% higher accuracy than Tik-Tok, 48% higher than DF, and 55% higher than k-FP in the DuckDuckGo dataset.
 - Lastly, we introduce a new padding-based KF defense that outperforms FRONT and WTF-PAD by 19% and 7%, with 66% and 24% reduced bandwidth overhead.
 
-## [Enhancing Search Privacy on Tor: Advanced Deep Keyword Fingerprinting Attacks and BurstGuard Defense]() ACM AsiaCCS, July 2025
+## [Enhancing Search Privacy on Tor: Advanced Deep Keyword Fingerprinting Attacks and BurstGuard Defense]() | Chaewon Hwang*, Haeseung Jeon*, Jiwoo Hong, Hosung Kang, Nate Mathews, Goun Kim, Se Eun Oh | ACM AsiaCCS, July 2025
